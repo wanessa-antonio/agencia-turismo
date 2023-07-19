@@ -1,0 +1,22 @@
+ 
+  /* Estilos do formulário */
+  fieldset {
+    margin-bottom: 20px;
+  }
+  
+  legend {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Estilos do rodapé */
+  footer {
+    color:red;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
